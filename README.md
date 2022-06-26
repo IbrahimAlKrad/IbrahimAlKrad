@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Informatics @TUBraunschweig / Java Dev private
 - 💞️ I’m looking to collaborate on Java- or Figma-Projects
 - 📫 How to reach me Instagram: @ibrahim_krd_
-                         || LindIn: @Ibrahim Al Krad 
+                         || LinkedIn: @Ibrahim Al Krad 
                          || E-Mail: i.alkrad@hotmail.com
 
 <!---
