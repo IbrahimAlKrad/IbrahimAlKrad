@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbrahimAlKrad
-- 👀 I’m interested in Software Engineering, Java, C++, SQL, Web & App Design ....
-- 🌱 I’m currently learning Informatics @TUBraunschweig / Java Dev private
+- 👀 I’m interested in Software Engineering, JavaScript, Java, C++, SQL, Web & App Design ....
+- 🌱 I’m currently studying Informatics @TUBraunschweig
 - 💞️ I’m looking to collaborate on Java- or Figma-Projects
 - 📫 How to reach me Instagram: @ibrahim_krd_
                          || LinkedIn: @Ibrahim Al Krad 
