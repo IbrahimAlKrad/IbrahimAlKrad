@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbrahimAlKrad
 - 👀 I’m interested in Robotics, Embedded Software Engineering, C/C++, Python, Swift...
-- 🌱 I’m currently doing my Master degree in Informatics
+- 🌱 I’m currently doing my Master degree in Informatics Ostfalia University of Applied Sciences: Ostfalia Hochschule
 - 📫 How to reach me Instagram: @ibrahim_krd_
                          || LinkedIn: @Ibrahim Al Krad 
                          || E-Mail: ibrahim@al-krad.com
