@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @IbrahimAlKrad
-- 👀 I’m interested in Software Engineering, JavaScript, Java, C++, SQL, Web & App Design ....
-- 🌱 I’m currently studying Informatics @TUBraunschweig
-- 💞️ I’m looking to collaborate on Java- or Figma-Projects
+- 👀 I’m interested in Robotics, Embedded Software Engineering, C/C++, Python, Swift...
+- 🌱 I’m currently doing my Master degree in Informatics
 - 📫 How to reach me Instagram: @ibrahim_krd_
                          || LinkedIn: @Ibrahim Al Krad 
-                         || E-Mail: i.alkrad@hotmail.com
+                         || E-Mail: ibrahim@al-krad.com
 
 <!---
 IbrahimAlKrad/IbrahimAlKrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
